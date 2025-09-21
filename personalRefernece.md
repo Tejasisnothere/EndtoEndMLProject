@@ -5,3 +5,9 @@
 5. cmd pip install -r requirements.txt
 6. mlproject.egg-info created on its own
 
+
+#Exception handling
+
+1. Log custom exceptions
+2. custom exception handling python # read documentation to get the hang of it
+3. 
