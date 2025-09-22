@@ -1,11 +1,8 @@
 setuptools
-wheel
-Cython
-pandas
+pandas 
 numpy
 seaborn
 dill
 catboost
-scikit
-xgboost
+scikit-learn
 flask
