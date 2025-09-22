@@ -3,4 +3,7 @@ pandas
 numpy
 seaborn
 dill
+catboost
+scikit-learn
+xgboost
 -e .
