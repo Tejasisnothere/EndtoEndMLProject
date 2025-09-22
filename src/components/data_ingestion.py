@@ -9,6 +9,8 @@ from src.components.data_transformation import DataTransformation, DataTransform
 
 from src.components.model_trainer import ModelTrainer, ModelTrainerConfig
 
+
+
 @dataclass
 class DataIngestionConfig:
     train_data_path: str=os.path.join('artifcats', "train.csv")
